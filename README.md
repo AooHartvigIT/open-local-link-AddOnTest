@@ -1,14 +1,5 @@
-# open-local-link
-Chrome Extension to enable local link
+# Forked from Hashedtomato3/open-local-link
+this is a forked test git, mostly for expermenting with this chrome.
+all credits goes to Hashedtomato3 for creating this.
 
-* [Chrome Web Store](https://chrome.google.com/webstore/detail/open-local-link/bhipgegdnofneghbmnmgbfdjfhbmejbe)
-* [Edge Addons](https://microsoftedge.microsoft.com/addons/detail/open-local-link/fnkknmpcmjndmgjejebjbhpkljnikmfp)
-
-## Deploy
-```
-> DEPLOY.bat  (creating ChromeStore.zip, host.zip)
-
-> Manually Upload ChromeStore.zip to Chrome store developpers dashboard
-```
-* [Microsoft partner center](https://partner.microsoft.com/en-us/dashboard/microsoftedge/)
-* [Chrome web store developper dashboard](https://chrome.google.com/webstore/developer/dashboard)
+Se his repo for futher infomation.
